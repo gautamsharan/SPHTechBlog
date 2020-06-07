@@ -1,0 +1,7 @@
+name: SPHTechBlog
+type: profile
+description: 'SPH tech blog profile'
+core: 8.x
+
+#distribution:
+#  name: SPHTechBlog
